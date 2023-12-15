@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kscutt, AKA Kathryn
-- 👀 I’m interested in VR, Cloud Computing, and 3D Printing!
-- 🌱 I’m currently learning about databases and making a VR data visualizer. 
-- 🏫 I’m a 4th year computer engineering student at TTU.
-- 📫 How to reach me: send an email to kathryn.scutt@ttu.edu
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning  
+- 🏫 TTU '22 grad
+- 📫 How to reach me: send an email to kathryn.scutt@gmail.com
 
 <!---
 kscutt/kscutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
